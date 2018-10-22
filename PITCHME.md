@@ -15,11 +15,11 @@
 ![](assets/img/cms.png)
 @snapend
 
-@snap[east fragment]
+@snap[east]
 ![](assets/img/frame.png)
 
 @snapend
 
-@snap[midpoint fragment]
+@snap[midpoint]
 ![](assets/img/versus.png)
 @snapend
