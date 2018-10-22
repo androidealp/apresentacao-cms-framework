@@ -26,7 +26,7 @@
 ![](assets/img/versus.png)
 @snapend
 
----#333
+---?color=#333
 @title[Framework]
 @snap[north]
 <h4>Framework</h4>
