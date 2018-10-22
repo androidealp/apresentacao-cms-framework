@@ -36,10 +36,10 @@
 @snap[west]
 
 @ul
-- Possui um conjunto de bibliotetas
+- Multiplas bibliotetas
 - Grande flexibilidade
-- Não possui administração
-- Seguem padrões de programação primarias
+- Sem administração
+- Padrões Primarios
 - Podem compor um @color[#e49436](CMS)
 @ulend
 
@@ -62,11 +62,10 @@
 
 @ul
 - Possui administração
-- Pode conter um ou mais @color[#e49436](Frameworks)
-- Não possui administração
+- Um ou mais @color[#e49436](Frameworks)
 - São menos flexiveis
-- Exigem um grau de conhecimento além da programação
-- Possuem regras e padrões próprios
+- Conhecimento técnico adm
+- Regras e padrões próprios
 @ulend
 
 @snapend
