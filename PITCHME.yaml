@@ -1,0 +1,4 @@
+theme : moon
+layout : center-right
+theme-override : assets/css/style.css
+highlight : monokai
