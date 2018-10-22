@@ -16,9 +16,10 @@
 @snapend
 
 @snap[east fragment]
-![](assets/img/versus.png)
+![](assets/img/frame.png)
+
 @snapend
 
 @snap[midpoint fragment]
-![](assets/img/frame.png)
+![](assets/img/versus.png)
 @snapend
