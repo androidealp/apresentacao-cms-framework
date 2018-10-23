@@ -1,7 +1,7 @@
 ---?image=assets/img/cms-frame.png&size=auto 90%&color=black
 @title[Introdução]
 
-#### @size[0.6em](A batalha dos @color[#e49436](CMS)/Frameworks)
+#### @size[0.8em](A batalha dos @color[#e49436](CMS)/Frameworks)
 
 <br>
 
@@ -75,6 +75,33 @@
 ![](assets/img/cms.png)
 
 @snapend
+
+---?color=#333
+@title[Frameworks PHP Conhecidos]
+@snap[north]
+<h4>Frameworks PHP Conhecidos</h4>
+@snapend
+@snap[west]
+
+@ul
+- @color[#e49436](Yii framework)
+- Laravel 
+- Code igniter
+- Symfony @color[#e49436](modular)
+- Zend
+- CakePHP
+@ulend
+
+@snapend
+
+@snap[east]
+
+![](assets/img/frame.png)
+
+@snapend
+
+
+
 
 ---
 
