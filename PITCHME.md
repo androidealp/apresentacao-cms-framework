@@ -150,7 +150,7 @@
 ![](assets/img/wordpress.jpg)
 @snapend
 
-@snap[south-east fragment img-right img-75]
+@snap[south-east fragment img-right img-50]
 ![](assets/img/canivete.png)
 @snapend
 
