@@ -134,11 +134,9 @@
 ![](assets/img/joomla.png)
 @snapend
 
-@snap[south-east fragment img-right img-75]
-![](assets/img/armadura-pesada.png)
+@snap[south-east fragment img-right]
+![](assets/img/tanque.gif)
 @snapend
-
-
 
 ---
 ![Video](https://www.youtube.com/embed/_MS4sLlBvbE)
