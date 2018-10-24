@@ -107,7 +107,7 @@
 @snap[north]
 <h4>CMS PHP Conhecidos</h4>
 @snapend
-
+@snap[west]
 @ul
 - Joomla
 - WordPress 
@@ -115,6 +115,7 @@
 - Opencart
 - Magento
 @ulend
+@snapend
 
 @snapend
 
