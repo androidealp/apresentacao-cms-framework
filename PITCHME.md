@@ -101,9 +101,34 @@
 @snapend
 
 
+---
+@title[CMS PHP Conhecidos]
 
+@snap[north]
+<h4>CMS PHP Conhecidos</h4>
+@snapend
+
+@ul
+- Joomla
+- WordPress 
+- Drupal
+- Opencart
+- Magento
+@ulend
+
+@snapend
+
+@snap[east]
+
+![](assets/img/cms.png)
+
+@snapend
+
+---?image=assets/img/castelo-princesa.jpg&size=auto 90%&color=black
+
+@snap[north-east fragment]
+![](assets/img/dragao.png)
+@snapend
 
 ---
-
-
 ![Video](https://www.youtube.com/embed/_MS4sLlBvbE)
