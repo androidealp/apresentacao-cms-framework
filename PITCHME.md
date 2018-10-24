@@ -126,6 +126,8 @@
 
 ---?image=assets/img/castelo-princesa.jpg&size=cover&color=black
 
+@title[Joomla]
+
 @snap[north-east fragment img-85 img-right]
 ![](assets/img/dragao.gif)
 @snapend
@@ -136,6 +138,20 @@
 
 @snap[south-east fragment img-right]
 ![](assets/img/tanque.gif)
+@snapend
+
+---?image=assets/img/castelo-princesa.jpg&size=cover&color=black
+@title[Wordpress]
+@snap[north-east img-85 img-right]
+![](assets/img/dragao.gif)
+@snapend
+
+@snap[south-west fragment ]
+![](assets/img/wordpress.jpg)
+@snapend
+
+@snap[south-east fragment img-right img-75]
+![](assets/img/canivete.png)
 @snapend
 
 ---
