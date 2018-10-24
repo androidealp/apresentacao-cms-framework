@@ -6,8 +6,23 @@
     box-shadow: none;
 }
 
-.img-md img
+.img-right img
 {
     width: 50%;
     float: right;
+}
+
+.img-50 img
+{
+    width: 50%;
+}
+
+.img-75 img
+{
+    width: 75%;
+}
+
+.img-85 img
+{
+    width: 85%;
 }
