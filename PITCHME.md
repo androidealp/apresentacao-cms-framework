@@ -126,7 +126,7 @@
 
 ---?image=assets/img/castelo-princesa.jpg&size=auto 90%&color=black
 
-@snap[north-east fragment]
+@snap[north-east fragment img-md]
 ![](assets/img/dragao.png)
 @snapend
 
