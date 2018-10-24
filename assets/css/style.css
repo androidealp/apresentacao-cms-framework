@@ -8,8 +8,12 @@
 
 .img-right img
 {
-    width: 50%;
     float: right;
+}
+
+.img-left img
+{
+    float: left;
 }
 
 .img-50 img

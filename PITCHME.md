@@ -130,5 +130,13 @@
 ![](assets/img/dragao.gif)
 @snapend
 
+@snap[south-west fragment img-left]
+![](assets/img/armadura-pesada.png)
+@snapend
+
+@snap[north-west fragment ]
+![](assets/img/joomla.png)
+@snapend
+
 ---
 ![Video](https://www.youtube.com/embed/_MS4sLlBvbE)
