@@ -155,4 +155,21 @@
 @snapend
 
 ---
+
+---?image=assets/img/castelo-princesa.jpg&size=cover&color=black
+@title[Drupal ED209]
+@snap[north-east img-85 img-right]
+![](assets/img/dragao.gif)
+@snapend
+
+@snap[south-west fragment ]
+![](assets/img/drupal.png)
+@snapend
+
+@snap[south-east fragment img-right img-50]
+![](assets/img/ed209.png)
+@snapend
+
+---
+
 ![Video](https://www.youtube.com/embed/_MS4sLlBvbE)
