@@ -134,7 +134,7 @@
 ![](assets/img/joomla.png)
 @snapend
 
-@snap[south-east fragment img-left img-50]
+@snap[south-east fragment img-right img-75]
 ![](assets/img/armadura-pesada.png)
 @snapend
 
