@@ -155,8 +155,6 @@
 ![](assets/img/canivete.png)
 @snapend
 
----
-
 ---?image=assets/img/castelo-princesa.jpg&size=cover&color=black
 @title[Drupal ED209]
 @snap[north-east img-85 img-right]
