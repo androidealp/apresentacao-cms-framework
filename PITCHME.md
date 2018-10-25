@@ -172,3 +172,18 @@
 ---
 
 ![Video](https://www.youtube.com/embed/_MS4sLlBvbE)
+
+---
+
+@snap[north]
+<h1>CMS para Lojas - @color[#e49436](Opencard)</h1>
+@snapend
+
+
+
+---
+
+@snap[north]
+    <h1>CMS para Lojas - @color[#e49436](Magento)</h1>
+@snapend
+
